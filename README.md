@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abu Saadat Md. Sayem</h1> 
 
- <img align="center" src="https://i.ibb.co/BZ3H6Pr/5.png" alt="Description of your image" style="width: 700px; s object-fit: cover;">
+<div style="margin: 0; padding: 0; display: flex; justify-content: center; align-items: center;">
+  <img src="https://i.ibb.co/BZ3H6Pr/5.png" alt="Description of your image" style="width: 700px; height: auto; object-fit: cover;">
+</div>
 
 <h3 align="center">🌟 Shining Bright with Frontend Excellence | A Passionate Developer</h3>
 
