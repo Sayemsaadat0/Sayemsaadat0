@@ -31,9 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayemsaadat0&" alt="sayemsaadat0" /></p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayemsaadat0&show_icons=true&locale=en&layout=compact" alt="sayemsaadat0" /></p> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayemsaadat0&show_icons=true&locale=en" alt="sayemsaadat0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayemsaadat0&" alt="sayemsaadat0" /></p>
