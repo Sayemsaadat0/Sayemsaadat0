@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abu Saadat Md. Sayem</h1> 
+<img src="https://i.ibb.co/sH5X8TL/Frontend-Developer-5.gif" alt="Developer"  />
 
-<div style="margin: 0; padding: 0; display: flex; justify-content: center; align-items: center;">
-  <img src="https://i.ibb.co/XzYJRTD/Untitled-design-5.png" alt="Description of your image" style="width: full; height: auto; object-fit: cover;">
-</div>
-
-<h3 align="center">🌟 Shining Bright with Frontend Excellence | A Passionate Developer</h3>
 
 - 👨‍💻 All of my projects are available at :[https://darling-liger-518a66.netlify.app/](https://darling-liger-518a66.netlify.app/)
 
