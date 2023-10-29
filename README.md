@@ -92,7 +92,7 @@ repository
 [![Knowledge-Cafe](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=knowledge-cafe&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/knowledge-cafe)
 [![Baby-Toy-Client](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=baby-toy-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/baby-toy-client) -->
 
-<p align="left">
+<p >
   <a href="https://github.com/Sayemsaadat0?tab=repositories" target="_blank"><img alt="Sayem's Repositories" title="Sayem's Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
@@ -100,19 +100,19 @@ repository
 <hr/>
 <br/>
 
-<p align="center">
+<p >
   <a href="https://github.com/Sayemsaadat0">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayemsaadat0&theme=radical&border=FFFFFF&background=0D1117" alt="sayem's GitHub streak"/>
   </a>
 </p>
 
-<p align="center">
+<p >
   <a href="https://github.com/Sayemsaadat0">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayemsaadat0&theme=radical" alt="sayem's GitHub Contribution"/>
   </a>
 </p>
 
-<a align="center"> 
+<a > 
    <a href="https://github.com/Sayemsaadat0"><img alt="sayem's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sayemsaadat0&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   
    <a href="https://github.com/Sayemsaadat0"><img alt="sayem's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Sayemsaadat0&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
