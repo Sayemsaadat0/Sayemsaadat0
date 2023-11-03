@@ -114,11 +114,11 @@ repository
   </a>
 </p>
 
-<a > 
+<p > 
    <a align="left"  href="https://github.com/Sayemsaadat0"><img alt="sayem's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sayemsaadat0&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="45%"/></a>
   
    <a align="right" href="https://github.com/Sayemsaadat0"><img alt="sayem's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Sayemsaadat0&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="45%"/></a>
    <br/>
-</a>
+</p>
 
 ![Abu Saadat Md. Sayems's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sayemsaadat0&custom_title=Abu%20Saadat%20Md.%20Sayem's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
