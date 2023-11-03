@@ -14,13 +14,13 @@
 
 
 <!-- Intro  -->
-<h3 align="center">
+<h3 align="left">
   <samp>&gt; Hey There!, I am
     <b><a target="_blank" href="https://github.com/Sayemsaadat0">Abu Saadat Md. Sayem</a></b>
   </samp>
 </h3>
 
-<p align="center"> 
+<p align="left"> 
   <samp>    
     「 I am a MERN stack web appplication developer from <b>Bangladesh</b> 」
     <br>
@@ -29,7 +29,7 @@
 </p>
 
 
-<p align="center">
+<p align="left">
   <!-- <a href="https://www.facebook.com/skshariful.islam.18" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Shariful"  />
   </a> -->
