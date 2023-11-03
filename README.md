@@ -51,9 +51,9 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  👨‍💻 &emsp; I’m currently working on web development technologies like JavaScript, React etc. <br/>
-📚 &emsp; I’m currently learning everything about Frontend and Backend technologies 😅<br/>
-💪🏼 &emsp; Future Goals: Learn more technologies - Never stop creating new ideas.<br/>
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
+ 📚 &emsp; I’m currently learning everything about Frontend and Backend technologies 😅<br/>
+ 💪🏼 &emsp; Future Goals: Learn more technologies - Never stop creating new ideas.<br/>
+ ✌️  &emsp; Enjoy to do programming and sharing knowledge <br/>
  📧 &emsp; Reach me anytime: sayemsaadat0@gmail.com<br/>
  💬 &emsp; Ask me about anything [here](https://github.com/shariful10)<br/>
 
@@ -63,7 +63,7 @@
 <br/>
 <br/>
 
-<p>Used to code with</p>
+<h3>Used to code with</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -115,9 +115,9 @@ repository
 </p>
 
 <a > 
-   <a href="https://github.com/Sayemsaadat0"><img alt="sayem's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sayemsaadat0&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+   <a align="left"  href="https://github.com/Sayemsaadat0"><img alt="sayem's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sayemsaadat0&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="45%"/></a>
   
-   <a href="https://github.com/Sayemsaadat0"><img alt="sayem's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Sayemsaadat0&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+   <a align="right" href="https://github.com/Sayemsaadat0"><img alt="sayem's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Sayemsaadat0&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="45%"/></a>
    <br/>
 </a>
 
