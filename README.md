@@ -1,21 +1,12 @@
-
-
 <a href="https://komarev.com/ghpvc/?username=Sayemsaadat0">
   <img align="right" src="https://komarev.com/ghpvc/?username=Sayemsaadat0&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
-
-
-
   <img align="right" width="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Profile visitor" />
-
-
-
 
 <!-- Intro  -->
 <h3 align="left">
-  <samp>&gt; Hey There!, I am
+  <samp>&gt; Hey There👋, I am
     <b><a target="_blank" href="https://github.com/Sayemsaadat0">Abu Saadat Md. Sayem</a></b>
   </samp>
 </h3>
@@ -27,7 +18,6 @@
     <br>
   </samp>
 </p>
-
 
 <p align="left">
   <!-- <a href="https://www.facebook.com/skshariful.islam.18" target="_blank">
@@ -57,14 +47,15 @@
 <h3>Here's some fun facts about me:</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: sayemsaadat0@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/shariful10)
+ 👨‍💻 &emsp; I’m currently working on web development technologies like JavaScript, React etc.
+📚 &emsp; I’m currently learning everything about Frontend and Backend technologies 😅
+💪🏼 &emsp; Future Goals: Learn more technologies - Never stop creating new ideas.
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
+ 📧 &emsp; Reach me anytime: sayemsaadat0@gmail.com<br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/shariful10)<br/>
 
 </p>
 
@@ -72,7 +63,8 @@
 <br/>
 <br/>
 
-## Use To Code
+<h2>Used to code with</h2>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
