@@ -50,9 +50,9 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- 👨‍💻 &emsp; I’m currently working on web development technologies like JavaScript, React etc.
-📚 &emsp; I’m currently learning everything about Frontend and Backend technologies 😅
-💪🏼 &emsp; Future Goals: Learn more technologies - Never stop creating new ideas.
+ 👨‍💻 &emsp; I’m currently working on web development technologies like JavaScript, React etc. <br/>
+📚 &emsp; I’m currently learning everything about Frontend and Backend technologies 😅<br/>
+💪🏼 &emsp; Future Goals: Learn more technologies - Never stop creating new ideas.<br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/>
  📧 &emsp; Reach me anytime: sayemsaadat0@gmail.com<br/>
  💬 &emsp; Ask me about anything [here](https://github.com/shariful10)<br/>
