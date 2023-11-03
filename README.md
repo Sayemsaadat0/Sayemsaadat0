@@ -21,6 +21,7 @@
   </samp>
 </p>
 
+
 <p align="center">
   <!-- <a href="https://www.facebook.com/skshariful.islam.18" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Shariful"  />
@@ -46,7 +47,9 @@
 
 <!-- About Section -->
 
-# About me
+# Here's some fun facts about me:
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
