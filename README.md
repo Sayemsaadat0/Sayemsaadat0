@@ -124,7 +124,7 @@ repository
 </div> -->
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sayemsaadat0&theme=rust-ferris-light&hide_border=true&short_numbers=true&card_width=900&card_height=200" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sayemsaadat0&theme=rust-ferris-light&short_numbers=true&card_width=900&card_height=200" alt="GitHub Streak" /></a>
 
 
 </br>
