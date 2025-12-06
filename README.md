@@ -71,6 +71,36 @@ repository
 
 <br/>
 
+
+<h3>🎉 Fun Facts About Me</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Frontend%20Dev-Design%20Lover-blueviolet?style=for-the-badge&logo=brush&logoColor=white" alt="Frontend Dev Badge" />
+</p>
+
+<ul>
+  <li>
+    💡 <b>I love solving complex design challenges in code!</b> Turning Figma or Photoshop dreams into interactive, pixel-perfect web realities gives me the ultimate thrill.
+  </li>
+  <li>
+    🎨 I believe great design <b>lives at the intersection of creativity and logic</b>; a beautifully crafted UI is my happy place.
+  </li>
+  <li>
+    ⚡ I enjoy <b>breaking down animations</b> and smooth transitions, replicating impressive micro-interactions with CSS and JavaScript.
+  </li>
+  <li>
+    🚀 Sometimes I'll spend hours wrapping my head around a tricky layout, but the "Aha!" moment makes it totally worth it.
+  </li>
+  <li>
+    🧩 Whether it's untangling Flexbox, mastering Grid, or devising a perfectly responsive component, I love the puzzle of frontend engineering.
+  </li>
+</ul>
+
+
+
+</br>
+
+
 <div align="left">
 <h3  >Trophies</h3>
 
