@@ -96,9 +96,9 @@ repository
 
 <div style="display: flex; justify-content: flex-start; gap:5px ">
 
-  <img src="[https://streak-stats.demolab.com?user=Sayemsaadat0&theme=rust-ferris-light&hide_border=true)](https://git.io/streak-stats](https://streak-stats.demolab.com?user=Sayemsaadat0&theme=rust-ferris-light&short_numbers=true&card_width=1920&card_height=720)](https://git.io/streak-stats)" alt="Most Commit Language" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sayemsaadat0&theme=rust-ferris-light&short_numbers=true&card_width=1920&card_height=720" alt="GitHub Streak" /></a>
 
-  <img   src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayemsaadat0&theme=calm&utcOffset=8" alt="Stats" />
+ <img   src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayemsaadat0&theme=calm&utcOffset=8" alt="Stats" />
 
 </div>
 </br>
