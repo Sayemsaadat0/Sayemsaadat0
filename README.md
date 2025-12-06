@@ -94,20 +94,19 @@ repository
 </div> -->
 
 
-<div style="display: flex; justify-content: flex-start; gap:5px ">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sayemsaadat0&theme=rust-ferris-light&hide_border=true&short_numbers=true&card_width=900&card_height=200" alt="GitHub Streak" /></a>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sayemsaadat0&theme=rust-ferris-light&hide_border=true&short_numbers=true&card_width=450&card_height=200" alt="GitHub Streak" /></a>
 
- <img   src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayemsaadat0&theme=calm&utcOffset=8" alt="Stats" />
-
-</div>
 </br>
 
-<div align="left">
+<div style="display: flex; justify-content: flex-start;gap:10px ">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayemsaadat0&theme=calm)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayemsaadat0&theme=calm" />
 
+   <img   src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayemsaadat0&theme=calm&utcOffset=8" alt="Stats" />
 </div>
+
+</br>
 
 
 <div style="display: flex; justify-content: flex-start; gap:5px ">
@@ -115,6 +114,9 @@ repository
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayemsaadat0&theme=calm" alt="Most Commit Language" />
 
   <img   src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayemsaadat0&theme=calm" alt="Stats" />
+
+
+
 
 </div>
 
