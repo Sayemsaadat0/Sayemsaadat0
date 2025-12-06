@@ -96,7 +96,7 @@ repository
 
 <div style="display: flex; justify-content: flex-start; gap:5px ">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sayemsaadat0&theme=rust-ferris-light&short_numbers=true&card_width=1920&card_height=720" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sayemsaadat0&theme=rust-ferris-light&hide_border=true&short_numbers=true&card_width=450&card_height=200" alt="GitHub Streak" /></a>
 
  <img   src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayemsaadat0&theme=calm&utcOffset=8" alt="Stats" />
 
