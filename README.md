@@ -1,22 +1,18 @@
-<a href="https://komarev.com/ghpvc/?username=Sayemsaadat0">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Sayemsaadat0&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
 
-  <img align="right" width="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Profile visitor" />
 
+![](https://komarev.com/ghpvc/?username=Sayemsaadat0&color=green)
 <!-- Intro  -->
-<h3 align="left">
-  <samp>&gt; Hey There👋, I am
-    <b><a target="_blank" href="https://github.com/Sayemsaadat0">Abu Saadat Md. Sayem</a></b>
-  </samp>
-</h3>
+<img  src="https://i.ibb.co.com/j9sdzwyt/sayemsbanner.gif" alt="frontend"  >
+
 
 <h3 align="left"> 
-  <samp>    
-    「 A <b>MERN Stack</b>  web appplication developer from <b>Bangladesh</b> 」
-    <br>
-    <br>
-  </samp>
+ I’m Sayem — a frontend developer with 2 years of experience building responsive, scalable web applications.
+I specialize in React, Next.js, TypeScript, and ShadCN UI, with a strong focus on clean design and minimalistic, user-friendly interfaces.
+</br>
+</br>
+
+I enjoy solving complex UI challenges, automating workflows, and crafting products that balance performance with simplicity.
+Currently, I’m working at Softminion, where I contribute to modern web solutions that scale.
 </h3>
 
 <p align="left">
@@ -40,31 +36,9 @@
  </a>  -->
   
 </p>
-<br />
 
-<!-- About Section -->
-
-<h3>Here's some fun facts about me:</h3>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- 👨‍💻 &emsp; I’m currently working on web development technologies like JavaScript, React etc. <br/>
- 📚 &emsp; I’m currently learning everything about Frontend and Backend technologies 😅<br/>
- 💪🏼 &emsp; Future Goals: Learn more technologies - Never stop creating new ideas.<br/>
- ✌️  &emsp; Enjoy to do programming and sharing knowledge <br/>
- 📧 &emsp; Reach me anytime: sayemsaadat0@gmail.com<br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Sayemsaadat0)<br/>
-
-</p>
-
-<br/>
-<br/>
-<br/>
 
 <h3>Used to code with</h3>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -83,7 +57,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
+
 
 <!-- ## Top Open Source -
 repository
@@ -94,31 +68,62 @@ repository
 [![Knowledge-Cafe](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=knowledge-cafe&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/knowledge-cafe)
 [![Baby-Toy-Client](https://github-readme-stats.vercel.app/api/pin/?username=shariful10&repo=baby-toy-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/shariful10/baby-toy-client) -->
 
-<p >
-  <a href="https://github.com/Sayemsaadat0?tab=repositories" target="_blank"><img alt="Sayem's Repositories" title="Sayem's Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
 <br/>
-<hr/>
-<br/>
 
-<p >
-  <a href="https://github.com/Sayemsaadat0">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayemsaadat0&theme=radical&border=FFFFFF&background=0D1117" alt="sayem's GitHub streak"/>
-  </a>
-</p>
+<div align="left">
+<h3  >Trophies</h3>
 
-<p >
-  <a href="https://github.com/Sayemsaadat0">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayemsaadat0&theme=radical" alt="sayem's GitHub Contribution"/>
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sayemsaadat0)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a > 
-   <a align="left"  href="https://github.com/Sayemsaadat0"><img alt="sayem's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sayemsaadat0&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="45%"/></a>
-  
-   <a align="right" href="https://github.com/Sayemsaadat0"><img alt="sayem's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Sayemsaadat0&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="45%"/></a>
-   <br/>
-</a>
+</div>
+
+<!-- <div align="center">
+<h3  align="left">Stats</h3>
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Sayemsaadat0/contributions?format=svg&private=true)  
+
+
+</div> -->
+<!-- <div align="left">
+<h3  align="left">Contributions</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sayemsaadat0&theme=rust-ferris-light&hide_border=true)](https://git.io/streak-stats)
+
+
+</div> -->
+
+
+<div style="display: flex; justify-content: flex-start; gap:5px ">
+
+  <img src="https://streak-stats.demolab.com?user=Sayemsaadat0&theme=rust-ferris-light&hide_border=true)](https://git.io/streak-stats" alt="Most Commit Language" />
+
+  <img   src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayemsaadat0&theme=calm&utcOffset=8" alt="Stats" />
+
+</div>
+</br>
+
+<div align="left">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayemsaadat0&theme=calm)
+
+</div>
+
+
+<div style="display: flex; justify-content: flex-start; gap:5px ">
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayemsaadat0&theme=calm" alt="Most Commit Language" />
+
+  <img   src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayemsaadat0&theme=calm" alt="Stats" />
+
+</div>
+
+<!-- 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayemsaadat0&theme=calm&utcOffset=8) -->
+
+
+
+
+</br>
 
 ![Abu Saadat Md. Sayems's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sayemsaadat0&custom_title=Abu%20Saadat%20Md.%20Sayem's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
