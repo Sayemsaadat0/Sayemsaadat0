@@ -10,7 +10,6 @@
   <br/><br/>
   I enjoy solving technical problems, designing clean architectures, building useful features, and turning ideas into working products. I believe great software should be simple to use, reliable, and built to scale.
   <br/><br/>
-  Currently, I'm working at Soft Minion, contributing to modern web applications and real-world product development.
 </h3>
 
 ---
