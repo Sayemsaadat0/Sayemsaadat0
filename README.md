@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Sayemsaadat0&color=green)
 
 <!-- Intro -->
-<img src="https://i.ibb.co.com/rGz9mswh/Untitled-2.gif" alt="Full Stack Developer" />
+<!-- <img src="https://i.ibb.co.com/rGz9mswh/Untitled-2.gif" alt="Full Stack Developer" /> -->
 
 <h3 align="left">
   I'm Sayem — a Full-Stack Developer with 3+ years of experience building modern, scalable web applications.
